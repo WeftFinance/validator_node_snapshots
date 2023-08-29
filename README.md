@@ -1,0 +1,1 @@
+WEFT [Validator Node](https://explorer.radixdlt.com/#/validators/rv1qvdtttvdk4q4vtx4zh2h7752mg7ku9t9cpxk8ul4tw8qwtqztmuh5r9as40) snapshots
